@@ -1,2 +1,2 @@
 # Cryptohack
-How to discover the flags.
+In this repository I will explain how to discover the CryptoHack flags and the logic behind the solutions.
